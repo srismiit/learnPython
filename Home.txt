@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-03-13T09:26:13+05:30
+
+====== Home ======
+Created Sunday 13 March 2022
+
+[[InstallPython]] - Getting right python version can be tricky. Also, you may need to install and manage multiple versions of python and python modules. Be sure to get a handle on it.
